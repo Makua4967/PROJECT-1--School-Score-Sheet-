@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    background-color: rgba(137, 253, 137, 0.726);
+    color: rgb(3, 0, 48);
+  }
+  table {
+    border: 1px solid rgb(7, 3, 65);
+    border width: 1px;
+    background-color: rgb(173, 252, 252);
+    color: rgb(3, 0, 48);
+  }
+  tr,
+  th,
+  td {
+    border: 1px solid rgb(7, 3, 65);
+    padding: 10px;
+  }
+  td:hover{
+    background-color: rgb(255, 255, 255);
+  }
+  th:hover{
+    background-color: rgb(252, 251, 250);
+  }
+  th{
+    background-color: rgb(235, 255, 255);
+  }
+  tr:nth-child(even){
+    background-color: rgb(1, 78, 102);
+  }
